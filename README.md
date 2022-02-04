@@ -10,7 +10,7 @@ _Hapiness is not by chance. But by Choice_
 |Birthday:           |17/12   |
 |Favorite Color:     |Black   |
 |Favorite Food:      |Dagobert|
-|Pinneapple on pizza:|Yes/No  |
+|Pinneapple on pizza:|Yes     |
 
 ## Hobbies
 
@@ -21,7 +21,7 @@ _Hapiness is not by chance. But by Choice_
 
 _Tell your teammates which positive contribution to the group you will make._
 
-## I'\m a funny story 
+## I'm a funny story 
 
 _I was born male but now i'm a female, 2000 Years is nice_
 
