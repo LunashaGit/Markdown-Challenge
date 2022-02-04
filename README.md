@@ -5,12 +5,12 @@ _Hapiness is not by chance. But by Choice_
 ![](img.jpg "Luna Muylkens")
 ## "Me, in one sentence"
 
-|Me                  |Luna          |
-|--------------------|--------------|
-|Birthday:           |17/12         |
-|Favorite Color:     |Black         |
-|Favorite Food:      |Dagobert      |
-|Pinneapple on pizza:|- [x] Yes     |
+|Me                  |Luna               |
+|--------------------|-------------------|
+|Birthday:           |17/12              |
+|Favorite Color:     |Black              |
+|Favorite Food:      |Dagobert           |
+|Pinneapple on pizza:|:heavy_check_mark: |
 
 ## Hobbies
 
