@@ -19,7 +19,7 @@ _Hapiness is not by chance. But by Choice_
 
 ## You can always count on me when...
 
-_You can always count on me when, i think we do the job with the positive and team!_
+_You can always count on me when, i think we do the job with the positive and team!!_
 
 ## I'm a funny story 
 
