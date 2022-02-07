@@ -10,7 +10,7 @@ _Hapiness is not by chance. But by Choice_
 |Birthday:           |17/12              |
 |Favorite Color:     |Black              |
 |Favorite Food:      |Dagobert           |
-|Pinneapple on pizza:|:heavy_check_mark: |
+|Pinneapple on pizza:|<ul><li>- [x] Yes</li><li>- [] No</li></ul>|
 
 ## Hobbies
 
@@ -35,4 +35,4 @@ _My sexe was changed_
 
 The links should have the following structure : 
 
-[<<Previous](#)||Luna||[Next>>](#)
+[<<Previous](https://github.com/Reptilz/markdown-challenge)||[Luna](https://github.com/LunashaGit)||[Next>>](#https://github.com/Frenzen-code)
