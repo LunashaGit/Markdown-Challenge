@@ -17,6 +17,10 @@ _Hapiness is not by chance. But by Choice_
 * Video Game
 * Eat
 
+## Video Game 
+    *World of Warcraft
+    *FFXIV
+
 ## You can always count on me when...
 
 _You can always count on me when, i think we do the job with the positive and team!!_
